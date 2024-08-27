@@ -14,7 +14,7 @@ Complete Challenge 1, 2, and Bonus (optional) in order. Follow the instructions 
 
 - `challenge-1.ipynb` containing your responses.
 - Screenshot of your Tensorflow Playground experiment for Challenge 2.
-- [OPTIONAL] `bonus.ipynb` containing your responses.
+<!-- - [OPTIONAL] `bonus.ipynb` containing your responses. -->
 
 ## Submission
 

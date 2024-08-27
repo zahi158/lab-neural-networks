@@ -8,7 +8,9 @@ This lab will let you practice performing neural network analysis. It will also 
 
 ## Getting Started
 
-Complete Challenge 1, 2, and Bonus (optional) in order. Follow the instructions and add your code and explanations as necessary.
+<!-- Complete Challenge 1, 2, and Bonus (optional) in order. Follow the instructions and add your code and explanations as necessary. -->
+
+Complete Challenge 1 and 2. Follow the instructions and add your code and explanations as necessary.
 
 ## Deliverables
 
